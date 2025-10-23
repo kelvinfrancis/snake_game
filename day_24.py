@@ -1,0 +1,8 @@
+# # Open the file and save it in a variable
+# with open("my_file.txt") as file:
+#     contents = file.read()
+#     print(contents)
+
+# write a file
+# with open("new_file.txt", mode="a") as file:
+#     file.write("\nNew file text.")
